@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat:wght@300&display=swap');
+.banner {
+    padding-top: -10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/stars.jpg");
+    background-position: center;
+    top: 0;
+    left: 0;
+    background-size: auto;
+    height: 450px;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.banner-header {
+    margin-top: 250px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 31px;
+    margin-left: 60px;
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 58px;
+    margin-bottom: 20px;
+    padding-right: 14%;
+}
